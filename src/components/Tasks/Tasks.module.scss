@@ -1,6 +1,6 @@
 .tasks{
   width: 80%;
-}
+
 .container {
   display: flex;
   align-items: center;
@@ -109,4 +109,5 @@ input ~ .checkmark:hover  {
   opacity: 0;
   display: flex;
   transition: 0.5s;
+}
 }

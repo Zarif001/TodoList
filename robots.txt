@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /contacts/
+Host: www.unicummedia.uz
+Sitemap: https://www.xml-sitemaps.com/download/unicummedia.uz-be8ee854d/sitemap.xml?view=1
+
+User-agent: Yandex
+Disallow: /contacts/
+Host: www.unicummedia.uz
+Sitemap: https://www.xml-sitemaps.com/download/unicummedia.uz-be8ee854d/sitemap.xml?view=1
